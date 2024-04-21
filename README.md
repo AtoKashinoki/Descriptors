@@ -22,4 +22,3 @@ This module provides the following features:
   - [ ] Skeleton class
   - [ ] DataType class
   - [ ] Attribute class
-  - 
