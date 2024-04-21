@@ -10,7 +10,10 @@ to support development.
 import sys
 
 
-if __name__ == '__main__':
+__self_name__ = "Descriptors"
+
+
+if not __name__ == __self_name__:
     print("Execution failed -> This file is module.")
     sys.exit()
 
@@ -28,4 +31,4 @@ from Descriptors.descriptors import (
 )
 
 
-print("**Initialize descriptors**")
+print(f"**Initialize {__self_name__}**")
