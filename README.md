@@ -18,7 +18,7 @@ This module provides the following features:
 
 ### Developed
 - [x] \_\_init__.py
-- [ ] descriptors.py
-  - [ ] Skeleton class
-  - [ ] DataType class
-  - [ ] Attribute class
+- [x] descriptors.py
+  - [x] Skeleton class
+  - [x] DataType class
+  - [x] Attribute class
